@@ -1,0 +1,19 @@
+{
+  "name": "project_repo",
+  "version": "1.0.0",
+  "description": "## Project - Name of project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andywoodruff6/Projects.git"
+  },
+  "author": "TheNewBadger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andywoodruff6/Projects/issues"
+  },
+  "homepage": "https://github.com/andywoodruff6/Projects#readme"
+}
