@@ -13,8 +13,7 @@
 ## 1.1 [Clock](https://github.com/andywoodruff6/Projects/tree/1.1.0)
 
 Description:
-Build a small clock module that allows the user to select a timezone and \
-see the time there
+Build a small clock module that allows the user to select a timezone and see the time there
 
 ---
 
